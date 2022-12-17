@@ -1,0 +1,361 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{kurs-metod}{article}{}
+      \field{sortinit}{А}
+      \field{sortinithash}{9db8541854f3671fde760253476fbbdb}
+      \field{labeltitlesource}{title}
+      \field{title}{А.Н. Миронов, Р.А. Исаев, А.Д. Лагунова / Методические рекомендации по выполнению курсовой работы по дисциплине «информационно-технологическая инфраструктура»}
+    \endentry
+    \entry{sites}{set}{}
+      \set{sites-name,1c-price,sklad-price,1c:edt,zimbra,postgresql,nginx,ubuntu,android,ansible}
+      \field{sortinit}{И}
+      \field{sortinithash}{2470d9127fdc7d7ccff0fd8f03da4828}
+    \endentry
+    \entry{sites-name}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{И}
+      \field{sortinithash}{2470d9127fdc7d7ccff0fd8f03da4828}
+      \field{labeltitlesource}{title}
+      \field{title}{Информация о лицензии и стоимости программного обеспечения:}
+    \endentry
+    \entry{system-requirments}{set}{}
+      \set{system-requirments-name,libreoffice-system-requirments,1c-system-requirments,sklad-system-requirments,mobic-system-requirments,1c:edt-system-requirments,zimbra-system-requirments,postgresql-system-requirments,ubuntu-system-requirments,android-system-requirments}
+      \field{sortinit}{И}
+      \field{sortinithash}{2470d9127fdc7d7ccff0fd8f03da4828}
+    \endentry
+    \entry{system-requirments-name}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{И}
+      \field{sortinithash}{2470d9127fdc7d7ccff0fd8f03da4828}
+      \field{labeltitlesource}{title}
+      \field{title}{Информация о системных требованиях программного обеспечения:}
+    \endentry
+    \entry{android-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "Android" [Электронный ресурс] / Документ определения совместимости "Android"}
+      \verb{urlraw}
+      \verb https://source.android.com/docs/compatibility/cdd
+      \endverb
+      \verb{url}
+      \verb https://source.android.com/docs/compatibility/cdd
+      \endverb
+    \endentry
+    \entry{android}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "Android" [Электронный ресурс] / Информация о "Android 13"}
+      \verb{urlraw}
+      \verb https://www.android.com/android-13/
+      \endverb
+      \verb{url}
+      \verb https://www.android.com/android-13/
+      \endverb
+    \endentry
+    \entry{ansible}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "Ansible" [Электронный ресурс] / Информация о "Ansible"}
+      \verb{urlraw}
+      \verb https://www.ansible.com/
+      \endverb
+      \verb{url}
+      \verb https://www.ansible.com/
+      \endverb
+    \endentry
+    \entry{libreoffice-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "LibreOffice" [Электронный ресурс] / Системные требования к "LibreOffice"}
+      \verb{urlraw}
+      \verb https://www.libreoffice.org/get-help/system-requirements/
+      \endverb
+      \verb{url}
+      \verb https://www.libreoffice.org/get-help/system-requirements/
+      \endverb
+    \endentry
+    \entry{nginx}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "NGINX" [Электронный ресурс] / Информация о "NGINX"}
+      \verb{urlraw}
+      \verb https://nginx.org/ru/
+      \endverb
+      \verb{url}
+      \verb https://nginx.org/ru/
+      \endverb
+    \endentry
+    \entry{postgresql}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "PostgreSQL" [Электронный ресурс] / Информация о "PostgreSQL"}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/
+      \endverb
+    \endentry
+    \entry{postgresql-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "PostgreSQL" [Электронный ресурс] / Системные требования к PostgreSQL}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/message-id/OFFB1A9E27.E9DAB04F-ON48256DF1.000C3A60@nec.com.sg
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/message-id/OFFB1A9E27.E9DAB04F-ON48256DF1.000C3A60@nec.com.sg
+      \endverb
+    \endentry
+    \entry{selectel}{online}{}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "selectel" [Электронный ресурс] / Документация к "selectel"}
+      \verb{urlraw}
+      \verb https://selectel.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=SRH-RUS-RG-P%2FBrand_Search&utm_content=ch_yandex_direct%7Ccid_53846709%7Cgid_4262758138%7Cad_9547006587%7Cph_21535414787%7Ccrt_0%7Cpst_premium%7Cps_1%7Csrct_search%7Csrc_none%7Cdevt_desktop%7Cret_21535414787%7Cgeo_213%7Ccf_0%7Cint_%7Ctgt_21535414787%7Cadd_no%7Cmrlid_1454%7Cdop_&utm_term=selectel&etext&yclid=7498404940433911387
+      \endverb
+      \verb{url}
+      \verb https://selectel.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=SRH-RUS-RG-P%2FBrand_Search&utm_content=ch_yandex_direct%7Ccid_53846709%7Cgid_4262758138%7Cad_9547006587%7Cph_21535414787%7Ccrt_0%7Cpst_premium%7Cps_1%7Csrct_search%7Csrc_none%7Cdevt_desktop%7Cret_21535414787%7Cgeo_213%7Ccf_0%7Cint_%7Ctgt_21535414787%7Cadd_no%7Cmrlid_1454%7Cdop_&utm_term=selectel&etext&yclid=7498404940433911387
+      \endverb
+    \endentry
+    \entry{ubuntu}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "Ubuntu" [Электронный ресурс] / Информация о "Ubuntu"}
+      \verb{urlraw}
+      \verb https://ubuntu.com/
+      \endverb
+      \verb{url}
+      \verb https://ubuntu.com/
+      \endverb
+    \endentry
+    \entry{ubuntu-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "Ubuntu" [Электронный ресурс] / Системные требования для "Ubuntu 22.04.01 LTS"}
+      \verb{urlraw}
+      \verb https://ubuntu.com/download/desktop
+      \endverb
+      \verb{url}
+      \verb https://ubuntu.com/download/desktop
+      \endverb
+    \endentry
+    \entry{vsaas}{online}{}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "VSAAS.io" [Электронный ресурс] / Документация к "VSAAS"}
+      \verb{urlraw}
+      \verb https://vsaas.io/ru/
+      \endverb
+      \verb{url}
+      \verb https://vsaas.io/ru/
+      \endverb
+    \endentry
+    \entry{zimbra}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "Zimbra" [Электронный ресурс] / Официальный сайт Zimbra}
+      \verb{urlraw}
+      \verb https://www.zimbra.com
+      \endverb
+      \verb{url}
+      \verb https://www.zimbra.com
+      \endverb
+    \endentry
+    \entry{zimbra-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт "Zimbra" [Электронный ресурс] / Системные требования к Zimbra}
+      \verb{urlraw}
+      \verb http://docs.zimbra.com/docs/shared/7.1/system_requirements/
+      \endverb
+      \verb{url}
+      \verb http://docs.zimbra.com/docs/shared/7.1/system_requirements/
+      \endverb
+    \endentry
+    \entry{1c:edt}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт <<1С:EDT>> [Электронный ресурс] / Информация о <<1С:EDT>>}
+      \verb{urlraw}
+      \verb https://edt.1c.ru/
+      \endverb
+      \verb{url}
+      \verb https://edt.1c.ru/
+      \endverb
+    \endentry
+    \entry{1c:edt-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт <<1С:EDT>> [Электронный ресурс] / Системные требования к <<1С:EDT>>}
+      \verb{urlraw}
+      \verb https://edt.1c.ru/docs/intro/requirements.php
+      \endverb
+      \verb{url}
+      \verb https://edt.1c.ru/docs/intro/requirements.php
+      \endverb
+    \endentry
+    \entry{trinity}{online}{}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт компании "Trinity" [Электронный ресурс] / Конфигуратор вычислительного кластера}
+      \verb{urlraw}
+      \verb https://bu.trinitygroup.ru/expert/
+      \endverb
+      \verb{url}
+      \verb https://bu.trinitygroup.ru/expert/
+      \endverb
+    \endentry
+    \entry{trinity-storage}{online}{}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт компании "Trinity" [Электронный ресурс] / Конфигуратор системы хранения данных}
+      \verb{urlraw}
+      \verb https://storage.trinitygroup.ru/
+      \endverb
+      \verb{url}
+      \verb https://storage.trinitygroup.ru/
+      \endverb
+    \endentry
+    \entry{1c-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт компании <<1С>> [Электронный ресурс] / Системные требования к <<1С>>}
+      \verb{urlraw}
+      \verb https://1c.ru/rus/products/1c/predpr/compat/hard/demand.htm
+      \endverb
+      \verb{url}
+      \verb https://1c.ru/rus/products/1c/predpr/compat/hard/demand.htm
+      \endverb
+    \endentry
+    \entry{mobic-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт компании <<1С>> [Электронный ресурс] / Технические требования к <<Моби-С>>}
+      \verb{urlraw}
+      \verb https://mobi-c.ru/download.html
+      \endverb
+      \verb{url}
+      \verb https://mobi-c.ru/download.html
+      \endverb
+    \endentry
+    \entry{1c-price}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт компании <<1С>> [Электронный ресурс] / Цены и порядок поставки <<1С>>}
+      \verb{urlraw}
+      \verb https://v8.1c.ru/price/
+      \endverb
+      \verb{url}
+      \verb https://v8.1c.ru/price/
+      \endverb
+    \endentry
+    \entry{sklad-price}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{sites}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт компании <<ООО <<Логнекс>>>> [Электронный ресурс] / Тарифы для <<МойСклад>>}
+      \verb{urlraw}
+      \verb https://www.moysklad.ru/subscription/
+      \endverb
+      \verb{url}
+      \verb https://www.moysklad.ru/subscription/
+      \endverb
+    \endentry
+    \entry{sklad-system-requirments}{online}{skipbib=true,skipbiblist=true,skiplab=true}
+      \inset{system-requirments}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальный сайт компании <<ООО <<Логнекс>>>> [Электронный ресурс] / Технические требования к <<МойСклад>>}
+      \verb{urlraw}
+      \verb https://support.moysklad.ru/hc
+      \endverb
+      \verb{url}
+      \verb https://support.moysklad.ru/hc
+      \endverb
+    \endentry
+    \entry{temp-metod}{online}{}
+      \field{sortinit}{С}
+      \field{sortinithash}{e581ee5e052c6c8e9beb0cf2da905808}
+      \field{labeltitlesource}{title}
+      \field{title}{Сайт журнала <<СТРОЙКА: Всё о строительстве>> [Электронный ресурс] / Расчет мощности кондиционера}
+      \verb{urlraw}
+      \verb https://amg-cement.ru/onlajn-kalkulator-rasceta-mosnosti-kondicionera/
+      \endverb
+      \verb{url}
+      \verb https://amg-cement.ru/onlajn-kalkulator-rasceta-mosnosti-kondicionera/
+      \endverb
+    \endentry
+    \entry{fire-metod}{online}{}
+      \field{sortinit}{Ш}
+      \field{sortinithash}{11967b4eaab40d50443e8eae07dc465c}
+      \field{labeltitlesource}{title}
+      \field{title}{Шулекина М. / Пожаротушение для ЦОД или серверной: просто о сложном}
+      \verb{urlraw}
+      \verb https://habr.com/ru/post/595117/
+      \endverb
+      \verb{url}
+      \verb https://habr.com/ru/post/595117/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
